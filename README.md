@@ -7,6 +7,8 @@
 
 [谈一谈创建React Component的几种方式](https://segmentfault.com/a/1190000008402834)
 
+[深入理解React 高阶组件](https://juejin.im/post/59eb26e951882578c6738fb0)
+
 ## React refs (新版16.3以上)
 
 [React ref 指北教程](https://juejin.im/post/5ab30cef6fb9a028b410f5c1)
