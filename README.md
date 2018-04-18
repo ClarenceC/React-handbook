@@ -7,7 +7,11 @@
 
 [谈一谈创建React Component的几种方式](https://segmentfault.com/a/1190000008402834)
 
-##  Context API :star: (新版16.*以上)
+## React refs (新版16.3以上)
+
+[React ref 指北教程](https://juejin.im/post/5ab30cef6fb9a028b410f5c1)
+
+##  Context API :star: (新版16.3以上)
 
 [React 全新的 Context API](https://loveky.github.io/2018/03/05/react-new-context-api/)
 
