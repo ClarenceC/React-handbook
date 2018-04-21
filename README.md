@@ -25,6 +25,8 @@
 
 [[干货]一篇笔记入门React](https://www.cnblogs.com/szhshp/p/8006093.html)
 
+[从零搭建React全家桶框架教程](https://github.com/brickspert/blog/issues/1)
+
 
 # React Route
 
