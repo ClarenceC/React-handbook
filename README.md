@@ -5,6 +5,8 @@
 
 [React 组件间通讯](http://taobaofed.org/blog/2016/11/17/react-components-communication/)
 
+[React组件之间的通信](https://github.com/sunyongjian/blog/issues/27)
+
 [谈一谈创建React Component的几种方式](https://segmentfault.com/a/1190000008402834)
 
 [深入理解React 高阶组件](https://juejin.im/post/59eb26e951882578c6738fb0)
