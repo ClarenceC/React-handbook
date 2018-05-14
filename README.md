@@ -11,7 +11,7 @@
 
 [深入理解React 高阶组件](https://juejin.im/post/59eb26e951882578c6738fb0)
 
-[setState takes a callback](https://medium.learnreact.com/setstate-takes-a-callback-1f71ad5d2296)
+[React-Router browserHistory浏览器刷新出现页面404解决方案](https://www.thinktxt.com/react/2017/02/26/react-router-browserHistory-refresh-404-solution.html)
 
 ## React refs (新版16.3以上)
 
@@ -42,7 +42,7 @@
 
 [关于 React Router 4 的一切](https://juejin.im/post/5995a2506fb9a0249975a1a4)
 
-
+[关于 React Router 4 的一切](https://juejin.im/post/5995a2506fb9a0249975a1a4)
 # React-Redux
 
 ## State
