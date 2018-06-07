@@ -1,5 +1,8 @@
 # React 笔记
 
+## react API
+[揭密React setState](http://imweb.io/topic/5b189d04d4c96b9b1b4c4ed6)
+
 ## react组件
 [React 组件的生命周期](https://github.com/ClarenceC/knowledge/issues/12)
 
