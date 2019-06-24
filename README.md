@@ -18,6 +18,8 @@
 
 [React生命周期简单分析](http://imweb.io/topic/5b14d5ded4c96b9b1b4c4eaa)
 
+[高性能 React 组件](http://taobaofed.org/blog/2016/08/12/optimized-react-components/)
+
 ## React refs (新版16.3以上)
 
 [React ref 指北教程](https://juejin.im/post/5ab30cef6fb9a028b410f5c1)
