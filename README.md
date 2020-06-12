@@ -6,6 +6,8 @@
 ## react组件
 [React 组件的生命周期](https://github.com/ClarenceC/knowledge/issues/12)
 
+[React v16.3 版本新生命周期函数浅析及升级方案](https://juejin.im/post/5ae6cd96f265da0b9c106931)
+
 [React 组件间通讯](http://taobaofed.org/blog/2016/11/17/react-components-communication/)
 
 [React组件之间的通信](https://github.com/sunyongjian/blog/issues/27)
