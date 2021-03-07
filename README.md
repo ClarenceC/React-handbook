@@ -59,3 +59,9 @@
 [redux的state树应该如何设计？](https://www.zhihu.com/question/50888321)
 
 [如何优雅的设计Redux的Store中的State树](http://www.cnblogs.com/geoffgu/p/6273956.html)
+
+
+## 源码
+### 16.8.*
+
+[*React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
