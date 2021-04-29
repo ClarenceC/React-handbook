@@ -43,6 +43,8 @@
 
 [从零搭建React全家桶框架教程](https://github.com/brickspert/blog/issues/1)
 
+[React 灵魂 23 问，你能答对几个？](https://zhuanlan.zhihu.com/p/304213203)
+
 
 # React Route
 
