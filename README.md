@@ -32,6 +32,9 @@
 
 [全新的 React Context API](https://github.com/Hancoson/blog/issues/27)
 
+
+### React 合成事件
+[React 合成事件](https://segmentfault.com/a/1190000038251163)
 ## Issues
 
 [Unexpected token &lt Error](https://github.com/ClarenceC/knowledge/issues/15)
@@ -51,7 +54,6 @@
 
 [关于 React Router 4 的一切](https://juejin.im/post/5995a2506fb9a0249975a1a4)
 
-[关于 React Router 4 的一切](https://juejin.im/post/5995a2506fb9a0249975a1a4)
 # React-Redux
 
 ## State
@@ -59,6 +61,12 @@
 [redux的state树应该如何设计？](https://www.zhihu.com/question/50888321)
 
 [如何优雅的设计Redux的Store中的State树](http://www.cnblogs.com/geoffgu/p/6273956.html)
+
+[用 useContext + useReducer 替代 redux](https://juejin.cn/post/6844903854807482382)
+
+
+
+# Hook
 
 
 ## 源码
