@@ -67,9 +67,12 @@
 [用 useContext + useReducer 替代 redux](https://juejin.cn/post/6844903854807482382)
 
 
+### 高阶组件
+
+[「react进阶」一文吃透React高阶组件(HOC)](https://juejin.cn/post/6940422320427106335#heading-8)
 
 # Hook
-
+[useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
 
 ## 源码
 ### 16.8.*
